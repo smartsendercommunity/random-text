@@ -1,0 +1,27 @@
+[
+    {
+        "type":"picture",
+        "media":"https://image.mufiksoft.com/001.jpg",
+        "caption":"Картинка номер 1"
+    },
+    {
+        "type":"picture",
+        "media":"https://image.mufiksoft.com/002.jpg",
+        "caption":"Картинка номер 2"
+    },
+    {
+        "type":"picture",
+        "media":"https://image.mufiksoft.com/003.jpg",
+        "caption":"Картинка номер 3"
+    },
+    {
+        "type":"picture",
+        "media":"https://image.mufiksoft.com/004.jpg",
+        "caption":"Картинка номер 4"
+    },
+    {
+        "type":"picture",
+        "media":"https://image.mufiksoft.com/005.jpg",
+        "caption":"Картинка номер 5"
+    }
+]
